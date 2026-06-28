@@ -1,0 +1,3 @@
+[submodule "apps/qtcloud-product"]
+	path = apps/qtcloud-product
+	url = https://github.com/quanttide/qtcloud-product.git
