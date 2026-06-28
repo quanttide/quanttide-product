@@ -1,3 +1,24 @@
 [submodule "apps/qtcloud-product"]
 	path = apps/qtcloud-product
 	url = https://github.com/quanttide/qtcloud-product.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-product-development.git
+[submodule "data/profile"]
+	path = data/profile
+	url = https://github.com/quanttide/quanttide-profile-of-product-development.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-product-development.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-product-development.git
+[submodule "examples/founder"]
+	path = examples/founder
+	url = https://github.com/quanttide/quanttide-laboratory-of-founder.git
+[submodule "examples/company"]
+	path = examples/company
+	url = https://github.com/quanttide/quanttide-laboratory-of-business-entity.git
+[submodule "packages/default"]
+	path = packages/default
+	url = https://github.com/quanttide/quanttide-product-toolkit.git
