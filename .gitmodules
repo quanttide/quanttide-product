@@ -25,9 +25,6 @@
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-product-development.git
-[submodule "apps/qtgame-weiqi"]
-	path = apps/qtgame-weiqi
-	url = https://github.com/quanttide/qtgame-weiqi.git
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-product-development.git
