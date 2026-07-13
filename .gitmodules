@@ -28,3 +28,6 @@
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-product-development.git
+[submodule "data/insight"]
+	path = data/insight
+	url = https://github.com/quanttide/quanttide-insight-of-product-development.git
