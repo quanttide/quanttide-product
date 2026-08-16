@@ -1,13 +1,13 @@
 # quanttide-product 状态报告
 
 > 更新日期：2026-08-16
-> 最新主仓库 commit：63f29ec
+> 最新主仓库 commit：2b234d7
 
 ## apps/ — 应用
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `qtcloud-product` | 0.0.1-12 | 25c8698 |
+| `qtcloud-product` | 0.0.1-13 | 76b5d32 |
 
 ## data/ — 陈述性记忆
 
@@ -15,7 +15,7 @@
 |--------|------|--------|
 | `insight` | heads/main | fbf8155 |
 | `journal` | heads/main | 13792e7 |
-| `profile` | v0.1.1-3 | cf3de49 |
+| `profile` | v0.1.1-4 | d26c61b |
 
 ## docs/ — 程序性记忆
 
