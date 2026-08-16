@@ -37,3 +37,12 @@
 | 子模块 | 版本 | commit |
 |--------|------|--------|
 | `default` | heads/main | ce2a0d1 |
+
+## 部署
+
+| 项 | 值 |
+|----|----|
+| Studio 线上地址 | https://product.cloud.quanttide.com（已上线，2026-08-16） |
+| 部署链路 | `studio/*` tag → GitHub Actions（flutter build web）→ OSS `qtcloud-product-studio` → CDN |
+| IaC | `apps/qtcloud-product/manifests/terraform`（OSS 桶 + CDN + DNS，状态存 OSS `quanttide-product/terraform.tfstate`） |
+| 证书 | acme.sh 签发 `product.cloud.quanttide.com` 单域名证书（DNS-01，自动续期 + CDN reload） |
