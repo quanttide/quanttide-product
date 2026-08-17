@@ -36,4 +36,4 @@
 	url = https://github.com/quanttide/quanttide-context-of-product-development.git
 [submodule "docs/brochure"]
 	path = docs/brochure
-	url = https://github.com/quanttide/brochure-of-product-development.git
+	url = https://github.com/quanttide/quanttide-quanttide-brochure-of-product-development.git
