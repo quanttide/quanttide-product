@@ -15,7 +15,7 @@
 |--------|------|--------|
 | `insight` | heads/main | fbf8155 |
 | `journal` | heads/main | bfeea65 |
-| `profile` | heads/main | d68595d |
+| `profile` | heads/main | 8d00140 |
 
 ## docs/ — 程序性记忆
 
