@@ -14,7 +14,7 @@
 | 子模块 | 版本 | commit |
 |--------|------|--------|
 | `insight` | heads/main | fbf8155 |
-| `journal` | heads/main | 13792e7 |
+| `journal` | heads/main | bfeea65 |
 | `profile` | v0.1.1-15 | 5551caa |
 
 ## docs/ — 程序性记忆
