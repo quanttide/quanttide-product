@@ -17,8 +17,8 @@
 | `brochure` | heads/main | b0da8db |
 | `context` | heads/main | 4f163b7 |
 | `insight` | heads/main | fbf8155 |
-| `journal` | heads/main | bfeea65 |
-| `profile` | heads/main | a5cf0d1 |
+| `journal` | heads/main | 333cd36 |
+| `profile` | heads/main | 05f92ca |
 
 ## docs/ — 程序性记忆
 
