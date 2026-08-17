@@ -1,7 +1,7 @@
 # quanttide-product 状态报告
 
 > 更新日期：2026-08-16
-> 最新主仓库 commit：78590a5
+> 最新主仓库 commit：b947da1
 
 ## apps/ — 应用
 
@@ -13,6 +13,7 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
+| `context` | heads/main | 4f163b7 |
 | `insight` | heads/main | fbf8155 |
 | `journal` | heads/main | bfeea65 |
 | `profile` | heads/main | e614309 |
