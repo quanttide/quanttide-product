@@ -16,7 +16,7 @@
 | `archive` | heads/main | 5efc82d |
 | `brochure` | heads/main | b0da8db |
 | `context` | heads/main | 4f163b7 |
-| `insight` | heads/main | d862b45 |
+| `insight` | heads/main | 600c520 |
 | `journal` | heads/main | 333cd36 |
 | `profile` | heads/main | c814a9c |
 
