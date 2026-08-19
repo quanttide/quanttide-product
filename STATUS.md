@@ -19,7 +19,7 @@
 | `insight` | heads/main | 590fb77 |
 | `journal` | heads/main | 1030d5f |
 | `profile` | heads/main | 7d75835 |
-| `report` | heads/main | bba4d0c |
+| `report` | heads/main | 7b2c4ba |
 
 ## docs/ — 程序性记忆
 
