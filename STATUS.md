@@ -19,7 +19,7 @@
 | `insight` | heads/main | 590fb77 |
 | `journal` | heads/main | 1030d5f |
 | `profile` | heads/main | 7d75835 |
-| `report` | heads/main | 7b2c4ba |
+| `report` | heads/main | 5dc2a2a |
 
 ## docs/ — 程序性记忆
 
@@ -34,8 +34,7 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `company` | heads/main | cd83342 |
-| `default` | heads/main | c8be2d9 |
+| `default` | heads/main | 4333e8f |
 
 ## packages/ — 工具包
 
