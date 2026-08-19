@@ -7,7 +7,7 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `qtcloud-product` | studio/v0.1.0-alpha.7 | 58644bc |
+| `qtcloud-product` | studio/v0.1.0-alpha.8 | 5cb01db |
 
 ## data/ — 陈述性记忆
 
