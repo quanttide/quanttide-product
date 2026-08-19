@@ -7,7 +7,7 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `qtcloud-product` | studio/v0.1.0-alpha.7 | 1b3e9cf |
+| `qtcloud-product` | studio/v0.1.0-alpha.7 | 05e8feb |
 
 ## data/ — 陈述性记忆
 
@@ -34,7 +34,7 @@
 
 | 子模块 | 版本 | commit |
 |--------|------|--------|
-| `default` | heads/main | 4333e8f |
+| `default` | heads/main | d64d26d |
 
 ## packages/ — 工具包
 
