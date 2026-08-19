@@ -13,9 +13,6 @@
 [submodule "docs/handbook"]
 	path = docs/handbook
 	url = https://github.com/quanttide/quanttide-handbook-of-product-development.git
-[submodule "examples/company"]
-	path = examples/company
-	url = https://github.com/quanttide/quanttide-laboratory-of-business-entity.git
 [submodule "packages/default"]
 	path = packages/default
 	url = https://github.com/quanttide/quanttide-product-toolkit.git
