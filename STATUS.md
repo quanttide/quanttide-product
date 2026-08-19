@@ -25,7 +25,7 @@
 | 子模块 | 版本 | commit |
 |--------|------|--------|
 | `gallery` | heads/main | 443be63 |
-| `handbook` | heads/main | c64bdc4 |
+| `handbook` | heads/main | 88fbef2 |
 | `specification` | heads/main | 5840468 |
 | `tutorial` | heads/main | 02b8760 |
 
