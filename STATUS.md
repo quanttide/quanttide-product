@@ -1,7 +1,7 @@
 # quanttide-product 状态报告
 
 > 更新日期：2026-08-18
-> 最新主仓库 commit：fbff5055f51617a049ec33c92a80e48fb9621826
+> 最新主仓库 commit：e9c939e9b641dd0fabea12b675213dbe824fe052
 
 ## apps/ — 应用
 
