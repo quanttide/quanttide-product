@@ -12,7 +12,7 @@ quanttide-product 是量潮产品研发领域，涵盖产品规划、需求管�
 domains/quanttide-product/
 ├── apps/               # 面向用户的可部署应用
 ├── packages/toolkit    # 领域共享库/工具集
-├── examples/default    # 实验室——实验性/原型项目
+├── examples/quanttide-product-lab    # 实验室——实验性/原型项目
 │   └── apps/           # 实验室内的应用原型
 ├── docs/               # 领域文档
 ├── .agents/            # Agent skills 配置

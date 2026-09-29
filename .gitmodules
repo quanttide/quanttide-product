@@ -16,9 +16,9 @@
 [submodule "packages/default"]
 	path = packages/default
 	url = https://github.com/quanttide/quanttide-product-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-product-development.git
+[submodule "examples/quanttide-product-lab"]
+	path = examples/quanttide-product-lab
+	url = https://github.com/quanttide/quanttide-product-lab.git
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-product-development.git
