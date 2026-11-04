@@ -3,6 +3,7 @@
 ## 子模块
 
 - `apps/` — 可部署应用
+- `data/` — 领域数据（陈述性记忆）
 - `packages/toolkit` — 领域共享库/标准库
 - `examples/quanttide-product-lab` — 实验室——实验性/原型项目
 - `docs/` — 领域文档
